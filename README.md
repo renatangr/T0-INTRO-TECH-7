@@ -12,8 +12,10 @@ Esses exercícios abrangem os conteúdos aprendidos sobre:
 
 Dado um vetor contendo 10 números inteiros não ordenados, construa um algoritmo que consiga ordenar o vetor em ordem decrescente, seguindo o exemplo:
 
-Entrada: 2 5 1 3 4 9 7 8 10 6
-Saída: 10 9 8 7 6 5 4 3 2 1
+<b>Entrada:</b> 
+```2 5 1 3 4 9 7 8 10 6 ```</br>
+<b>Saída:</b> 
+```10 9 8 7 6 5 4 3 2 1```
 
 ## Exercício 02 - Manipulação de Vetor
 
